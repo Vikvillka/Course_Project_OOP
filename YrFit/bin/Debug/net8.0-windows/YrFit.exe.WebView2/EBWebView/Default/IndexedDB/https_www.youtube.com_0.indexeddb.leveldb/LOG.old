@@ -1,0 +1,12 @@
+2024/05/16-23:50:58.227 26a8 Reusing MANIFEST D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\YrFit.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/16-23:50:58.228 26a8 Recovering log #48
+2024/05/16-23:50:58.238 26a8 Reusing old log D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\YrFit.exe.WebView2\EBWebView\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000048.log 
+2024/05/16-23:51:50.767 1184 Level-0 table #53: started
+2024/05/16-23:51:50.780 1184 Level-0 table #53: 1663834 bytes OK
+2024/05/16-23:51:50.782 1184 Delete type=0 #48
+2024/05/16-23:54:37.261 3c38 Compacting 1@1 + 1@2 files
+2024/05/16-23:54:37.267 3c38 Generated table #54@1: 518 keys, 37368 bytes
+2024/05/16-23:54:37.267 3c38 Compacted 1@1 + 1@2 files => 37368 bytes
+2024/05/16-23:54:37.268 3c38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-23:54:37.268 3c38 Delete type=2 #50
+2024/05/16-23:54:37.268 3c38 Delete type=2 #53

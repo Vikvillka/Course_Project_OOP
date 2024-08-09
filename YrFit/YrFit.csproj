@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Img\ActionIcon.png" />
+    <None Remove="Img\AppLogo.png" />
+    <None Remove="Img\commentIcon.png" />
+    <None Remove="Img\EntryIcon.png" />
+    <None Remove="Img\fonLogin.jpg" />
+    <None Remove="Img\FonPage.png" />
+    <None Remove="Img\HomeFit.png" />
+    <None Remove="Img\HomeIcon.png" />
+    <None Remove="Img\HomeIcon2.png" />
+    <None Remove="Img\img_home.png" />
+    <None Remove="Img\LoginFon.png" />
+    <None Remove="Img\Logo.png" />
+    <None Remove="Img\MaskLogin.png" />
+    <None Remove="Img\noImg.jpg" />
+    <None Remove="Img\NotFound.png" />
+    <None Remove="Img\timeIcon.png" />
+    <None Remove="Img\Training1.mp4" />
+    <None Remove="Img\userIcon.png" />
+    <None Remove="Img\workoutIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.6.0" />
+    <PackageReference Include="FluentWPF" Version="0.10.2" />
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.68.0.3414" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+    <PackageReference Include="MaterialDesignThemes" Version="3.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.2478.35" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Img\ActionIcon.png" />
+    <Resource Include="Img\AppLogo.png" />
+    <Resource Include="Img\commentIcon.png" />
+    <Resource Include="Img\EntryIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Img\FonPage.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Img\HomeFit.png" />
+    <Resource Include="Img\HomeIcon.png" />
+    <Resource Include="Img\HomeIcon2.png" />
+    <Resource Include="Img\LoginFon.png" />
+    <Resource Include="Img\Logo.png" />
+    <Resource Include="Img\MaskLogin.png" />
+    <Resource Include="Img\noImg.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Img\NotFound.png" />
+    <Resource Include="Img\timeIcon.png" />
+    <Resource Include="Img\Training1.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Img\userIcon.png" />
+    <Resource Include="Img\workoutIcon.png" />
+  </ItemGroup>
+
+</Project>

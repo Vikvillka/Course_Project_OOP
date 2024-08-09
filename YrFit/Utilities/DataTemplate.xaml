@@ -1,0 +1,56 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:view="clr-namespace:YrFit.View"
+                     xmlns:viewa="clr-namespace:YrFit.View.ViewAdmin"
+                    xmlns:vm="clr-namespace:YrFit.ViewModel"
+                     xmlns:vma="clr-namespace:YrFit.ViewModel.AdminViewModel">
+
+    <DataTemplate DataType="{x:Type vm:HomeVM}">
+        <view:Home />
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:ScheduleVM}">
+        <view:Shedule />
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:ActionsVM}">
+        <view:Actions />
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:PersonVM}">
+        <view:PersonPage />
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:CommentVM}">
+        <view:Comment />
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:MediaVM}">
+        <view:MediaPage/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vma:UserAdminVM}">
+        <viewa:UserAdmin/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vma:CommentAdminVM}">
+        <viewa:CommentAdmin/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vma:ActionAdminVM}">
+        <viewa:ActionAdmin/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vma:ScheduleAdminVM}">
+        <viewa:ScheduleAdmin/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vma:EntryAdminVM}">
+        <viewa:EntryAdmin/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vma:MediaAdminVM}">
+        <viewa:MediaAdmin/>
+    </DataTemplate>
+
+</ResourceDictionary>

@@ -1,0 +1,91 @@
+﻿<Page x:Class="YrFit.View.SingInPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:YrFit.View"
+       xmlns:fw="clr-namespace:SourceChord.FluentWPF;assembly=FluentWPF" 
+      mc:Ignorable="d" 
+        fw:AcrylicWindow.AcrylicWindowStyle="Normal"
+        fw:AcrylicWindow.Enabled="True" 
+        fw:AcrylicWindow.TintOpacity="0.1"  
+       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        fw:AcrylicWindow.AcrylicAccentState="BlurBehind" 
+       d:DesignHeight="450" d:DesignWidth="800"
+      Title="SingInPage" 
+      >
+
+    <Grid >
+        <Grid.RowDefinitions>
+           
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500px"/>
+            <ColumnDefinition Width="4*"/>
+           
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0"  Panel.ZIndex="2"   VerticalAlignment="Top" >
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 40">
+                <Image Source="..\img\logo.png" Width="100" HorizontalAlignment="Center"></Image>
+            </StackPanel>
+        </Grid>
+        <Border Grid.Column="0" fw:PointerTracker.Enabled="True"  Background="#2E2E2E">
+            <Border.Effect>
+                <DropShadowEffect Color="Black" Direction="220" ShadowDepth="5" Opacity="0.8" />
+            </Border.Effect>
+            <Grid  Style="{StaticResource Page_Style}">
+                <StackPanel VerticalAlignment="Center">
+                  
+                    
+                    <StackPanel VerticalAlignment="Center" Margin="100 50" Panel.ZIndex="2" >
+                        <Label  Grid.Column="1" Foreground="#C43939" HorizontalAlignment="Center" Margin="20" FontSize="14" Content="{Binding ErrorBox}" Style="{DynamicResource MaterialDesignLabel}" />
+                        <DockPanel Margin="5 0">
+                            <materialDesign:PackIcon Kind="Person"  Height="12" VerticalAlignment="Center"  Foreground="#E2D6C7" Margin="0,0,0,0" />
+                            <Label  Grid.Column="1" Foreground="#E2D6C7"  FontSize="14" Content="Логин" Style="{DynamicResource MaterialDesignLabel}" />
+                        </DockPanel>
+
+                        <TextBox   Grid.Column="1"        
+                       Foreground="#E2D6C7"
+                       Margin="5 0 5 10"  
+                       Style="{StaticResource MaterialDesignOutlinedTextFieldTextBox}"
+                       Text="{Binding Login}" 
+                               materialDesign:HintAssist.Hint= "Введите ваш логин"
+                                materialDesign:HintAssist.HintOpacity="0.2"
+                                materialDesign:HintAssist.IsFloating="False">
+                        </TextBox>
+                        <DockPanel  Margin="5 0">
+                            <materialDesign:PackIcon Kind="Lock"  Height="12" VerticalAlignment="Center"  Foreground="#E2D6C7" Margin="0,0,0,0" />
+                            <Label Grid.Column="1"  Foreground="#E2D6C7" FontSize="14" Content="Пароль"/>
+                        </DockPanel>
+                        <PasswordBox   Grid.Column="1" 
+                           Margin="5 0 5 10" 
+                           Foreground="#E2D6C7"
+                           PasswordChanged="PasswordBox_PasswordChanged"
+                           Style="{StaticResource MaterialDesignOutlinedPasswordFieldPasswordBox}"
+                                materialDesign:HintAssist.Hint= "Введите ваш пароль"
+                                materialDesign:HintAssist.HintOpacity="0.2"
+                                materialDesign:HintAssist.IsFloating="False"/>
+                        <Button  Grid.Row="3"  Grid.Column="1"  Margin="5 10 5 0"  Content="Войти" Command="{Binding SignInCommand}" />
+                    <TextBlock HorizontalAlignment="Center" Margin="10">
+                        <TextBlock.Style>
+                            <Style TargetType="TextBlock">
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Foreground" Value="LightGray" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TextBlock.Style>
+                    <Hyperlink  TextDecorations="None" Command="{Binding HLinkRegistrationCommand}">
+                        <TextBlock Foreground="Gray" FontSize="14">У меня еще нет аккаунта</TextBlock>
+                    </Hyperlink>
+                </TextBlock>
+               </StackPanel>
+               </StackPanel>
+            </Grid>
+        </Border>
+     
+        <Image Grid.Column="0"   IsHitTestVisible="False" Panel.ZIndex="0" Grid.ColumnSpan="2" Source="..\img\MaskLogin.png"  Stretch="Fill" ></Image>
+
+    </Grid>
+</Page>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Actions.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminMainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Comment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MediaPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PersonPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Schedule.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SingInPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SingUpPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\UserMainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ViewAdmin\ActionAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ViewAdmin\CommentAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ViewAdmin\EntryAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ViewAdmin\MediaAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ViewAdmin\ScheduleAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ViewAdmin\UserAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Image.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ScrollViewer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Text.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Utilities\DataTemplate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Actions.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminMainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Comment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MediaPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PersonPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Schedule.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SingInPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SingUpPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\UserMainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ViewAdmin\ActionAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ViewAdmin\CommentAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ViewAdmin\EntryAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ViewAdmin\MediaAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ViewAdmin\ScheduleAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ViewAdmin\UserAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

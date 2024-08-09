@@ -1,0 +1,1515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YrFitAppFinall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\adminviewmodel\\actionadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\adminviewmodel\\actionadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\adminviewmodel\\entryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\adminviewmodel\\entryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\schedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\schedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\schedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\schedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\personpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\personpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\singinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\singinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\singuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\singuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\adminmainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\adminmainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\actions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\actions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\adminviewmodel\\commentadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\adminviewmodel\\commentadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\adminviewmodel\\scheduleadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\adminviewmodel\\scheduleadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\controller\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\controller\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\mediapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\mediapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|d:\\yrfitappfinall\\yrfit\\viewmodel\\personvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\personvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\YrFit\\Model\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:YrFit\\Model\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\entryadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\entryadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\adminviewmodel\\useradminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\adminviewmodel\\useradminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\comment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\comment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\model\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\model\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\model\\traininguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\model\\traininguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\schedulevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\schedulevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\mediaadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\mediaadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\mediavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\mediavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\adminviewmodel\\mediaadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\adminviewmodel\\mediaadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\commentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\commentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\controller\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\controller\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\scheduleadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\scheduleadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\useradmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\useradmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\navigationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\navigationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\adminmainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\adminmainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\personpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\personpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\visibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\visibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\nulltodefaultimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\nulltodefaultimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\mediacontentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\mediacontentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\charactercounttopercentageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\charactercounttopercentageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\caloriecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\caloriecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\bytearraytostreamconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\bytearraytostreamconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\booltostatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\booltostatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\yrfit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\yrfit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\actionsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\actionsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\actionadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\actionadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\singinvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\singinvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\commentadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\commentadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\singinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\singinpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\model\\mediatraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\model\\mediatraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\usermainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\usermainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\useradmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\useradmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\mediaadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\mediaadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\entryadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\entryadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\comment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\comment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\mediapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\mediapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\utilities\\datatemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\utilities\\datatemplate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\c9a91d3d59bafd2885a57aefd889d610ad2f697ad3202726ff21cd7cb59da913\\WebView2Base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YrFitAppFinall\\YrFit\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YrFit\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YrFitAppFinall\\YrFit\\obj\\Debug\\net8.0-windows\\View\\MediaPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:YrFit\\obj\\Debug\\net8.0-windows\\View\\MediaPage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YrFitApp\\YrFit\\Migrations\\20240512135836_newMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\actionadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\actionadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\commentadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\commentadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\viewadmin\\scheduleadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\viewadmin\\scheduleadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\model\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\model\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\styles\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\model\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\styles\\scrollviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\styles\\scrollviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\img\\applogo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\img\\applogo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\usermainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\usermainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\viewmodel\\singupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\viewmodel\\singupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\singuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\singuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YrFit\\YrFit\\Migrations\\20240504220019_ndfdfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\755b203da153c1147be7834a6e00b7c2948c66d9e563d069c387935ad0a5839e\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\YrFit\\YrFit\\Migrations\\20240425225225_newMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\styles\\page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\styles\\page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\styles\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\styles\\text.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\view\\actions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\view\\actions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\yrfit\\styles\\image.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:yrfit\\styles\\image.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\YrFit\\Migrations\\20240512141458_newMigrationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:YrFit\\Migrations\\20240512141458_newMigrationn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|D:\\YrFitAppFinall\\YrFit\\Migrations\\20240512135945_newMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3EE5DA-0F0C-4316-9E9D-46DF7652E39D}|YrFit\\YrFit.csproj|solutionrelative:YrFit\\Migrations\\20240512135945_newMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 411,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActionAdminVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\ActionAdminVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\AdminViewModel\\ActionAdminVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\ActionAdminVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\AdminViewModel\\ActionAdminVM.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:21:24.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\RelayCommand.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\RelayCommand.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:09:07.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntryAdminVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\EntryAdminVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\AdminViewModel\\EntryAdminVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\EntryAdminVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\AdminViewModel\\EntryAdminVM.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:41:17.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Schedule.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\Schedule.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\Schedule.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\Schedule.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\Schedule.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:53:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Schedule.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\Schedule.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\Schedule.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\Schedule.xaml",
+              "RelativeToolTip": "YrFit\\View\\Schedule.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T19:02:06.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "YrFit\\MainWindow.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\MainWindow.xaml",
+              "RelativeToolTip": "YrFit\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T19:04:55.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\Home.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\Home.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\Home.xaml",
+              "RelativeToolTip": "YrFit\\View\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T19:01:32.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonPage.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\PersonPage.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\PersonPage.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\PersonPage.xaml",
+              "RelativeToolTip": "YrFit\\View\\PersonPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T20:06:52.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DataTemplate.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\DataTemplate.xaml",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\DataTemplate.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\DataTemplate.xaml",
+              "RelativeToolTip": "YrFit\\Utilities\\DataTemplate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T19:18:11.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Comment.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\Comment.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\Comment.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\Comment.xaml",
+              "RelativeToolTip": "YrFit\\View\\Comment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T15:57:27.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MediaPage.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\MediaPage.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\MediaPage.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\MediaPage.xaml",
+              "RelativeToolTip": "YrFit\\View\\MediaPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T22:50:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\PersonVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\PersonVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\PersonVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\PersonVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMEBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:46:46.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserAdminVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\UserAdminVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\AdminViewModel\\UserAdminVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\UserAdminVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\AdminViewModel\\UserAdminVM.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwHgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:13:42.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\ViewModelBase.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\ViewModelBase.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:06:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\App.xaml",
+              "RelativeDocumentMoniker": "YrFit\\App.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\App.xaml",
+              "RelativeToolTip": "YrFit\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T19:12:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MediaAdmin.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\MediaAdmin.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\MediaAdmin.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\MediaAdmin.xaml",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\MediaAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T21:28:08.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\Home.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\Home.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\Home.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:34:50.569Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SingInPage.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\SingInPage.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\SingInPage.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\SingInPage.xaml",
+              "RelativeToolTip": "YrFit\\View\\SingInPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T00:19:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Actions.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\Actions.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\Actions.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\Actions.xaml",
+              "RelativeToolTip": "YrFit\\View\\Actions.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T19:03:20.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "YrFit\\AssemblyInfo.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\AssemblyInfo.cs",
+              "RelativeToolTip": "YrFit\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:48:37.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScheduleAdminVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\ScheduleAdminVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\AdminViewModel\\ScheduleAdminVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\ScheduleAdminVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\AdminViewModel\\ScheduleAdminVM.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:34:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Controller\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "YrFit\\Controller\\DelegateCommand.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Controller\\DelegateCommand.cs",
+              "RelativeToolTip": "YrFit\\Controller\\DelegateCommand.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAHMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:10:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "YrFit\\Controller\\UserController.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Controller\\UserController.cs",
+              "RelativeToolTip": "YrFit\\Controller\\UserController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAADcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:16:39.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Controller\\Validator.cs",
+              "RelativeDocumentMoniker": "YrFit\\Controller\\Validator.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Controller\\Validator.cs",
+              "RelativeToolTip": "YrFit\\Controller\\Validator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:41:25.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminMainPage.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\AdminMainPage.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\AdminMainPage.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\AdminMainPage.xaml",
+              "RelativeToolTip": "YrFit\\View\\AdminMainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T16:05:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SingUpPage.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\SingUpPage.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\SingUpPage.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\SingUpPage.xaml",
+              "RelativeToolTip": "YrFit\\View\\SingUpPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T10:00:19.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentAdminVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\CommentAdminVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\AdminViewModel\\CommentAdminVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\CommentAdminVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\AdminViewModel\\CommentAdminVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:00:38.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScheduleVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\ScheduleVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\ScheduleVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\ScheduleVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\ScheduleVM.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAkwOsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:30:17.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MediaAdminVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\MediaAdminVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\AdminViewModel\\MediaAdminVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\AdminViewModel\\MediaAdminVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\AdminViewModel\\MediaAdminVM.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:26:48.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CommentVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\CommentVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\CommentVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\CommentVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\CommentVM.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:04:50.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\MainWindow.xaml.cs",
+              "RelativeToolTip": "YrFit\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwCcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:04:53.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MediaPage.g.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\obj\\Debug\\net8.0-windows\\View\\MediaPage.g.cs",
+              "RelativeDocumentMoniker": "YrFit\\obj\\Debug\\net8.0-windows\\View\\MediaPage.g.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\obj\\Debug\\net8.0-windows\\View\\MediaPage.g.cs",
+              "RelativeToolTip": "YrFit\\obj\\Debug\\net8.0-windows\\View\\MediaPage.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:56:01.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "YrFit\\Model\\AppDbContext.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "YrFit\\Model\\AppDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:29:33.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EntryAdmin.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\EntryAdmin.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\EntryAdmin.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\EntryAdmin.xaml",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\EntryAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T16:27:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AQIAAMQAAAAAAAAAAIAwwNkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-12T17:35:32.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\UserAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\UserAdmin.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\UserAdmin.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\UserAdmin.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:16:55.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MediaAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\MediaAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\MediaAdmin.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\MediaAdmin.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\MediaAdmin.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwDsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:59:01.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Training.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Model\\Training.cs",
+              "RelativeDocumentMoniker": "YrFit\\Model\\Training.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Model\\Training.cs",
+              "RelativeToolTip": "YrFit\\Model\\Training.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T21:48:39.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ActionAdmin.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\ActionAdmin.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\ActionAdmin.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\ActionAdmin.xaml",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\ActionAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T15:19:43.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ActionsVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\ActionsVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\ActionsVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\ActionsVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\ActionsVM.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:05:44.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SingInVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\SingInVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\SingInVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\SingInVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\SingInVM.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAABBwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:51:21.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CommentAdmin.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\CommentAdmin.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\CommentAdmin.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\CommentAdmin.xaml",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\CommentAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T19:58:03.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\HomeVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\HomeVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\HomeVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:03:56.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TrainingUser.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Model\\TrainingUser.cs",
+              "RelativeDocumentMoniker": "YrFit\\Model\\TrainingUser.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Model\\TrainingUser.cs",
+              "RelativeToolTip": "YrFit\\Model\\TrainingUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:23:18.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Model\\User.cs",
+              "RelativeDocumentMoniker": "YrFit\\Model\\User.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Model\\User.cs",
+              "RelativeToolTip": "YrFit\\Model\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:20:44.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "YrFit\\Model\\Post.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Model\\Post.cs",
+              "RelativeToolTip": "YrFit\\Model\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:20:59.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BoolToStatusConverter.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\BoolToStatusConverter.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\BoolToStatusConverter.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\BoolToStatusConverter.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\BoolToStatusConverter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:40:52.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MediaVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\MediaVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\MediaVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\MediaVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\MediaVM.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:26:45.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserAdmin.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\UserAdmin.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\UserAdmin.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\UserAdmin.xaml",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\UserAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T14:16:18.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserMainPage.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\UserMainPage.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\UserMainPage.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\UserMainPage.xaml",
+              "RelativeToolTip": "YrFit\\View\\UserMainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T23:21:23.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScheduleAdmin.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\ScheduleAdmin.xaml",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\ScheduleAdmin.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\ScheduleAdmin.xaml",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\ScheduleAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T17:34:34.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Btn.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\Btn.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\Btn.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\Btn.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\Btn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:11:56.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SingInPage.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\SingInPage.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\SingInPage.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\SingInPage.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\SingInPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAABBwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:19:42.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "YrFit.csproj",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\YrFit.csproj",
+              "RelativeDocumentMoniker": "YrFit\\YrFit.csproj",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\YrFit.csproj",
+              "RelativeToolTip": "YrFit\\YrFit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T19:49:24.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MediaPage.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\MediaPage.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\MediaPage.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\MediaPage.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\MediaPage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAABBwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:24:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "WebView2Base.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\c9a91d3d59bafd2885a57aefd889d610ad2f697ad3202726ff21cd7cb59da913\\WebView2Base.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\c9a91d3d59bafd2885a57aefd889d610ad2f697ad3202726ff21cd7cb59da913\\WebView2Base.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAPYBAAAAAAAAAABRwBQCAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:25:30.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MediaTraining.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Model\\MediaTraining.cs",
+              "RelativeDocumentMoniker": "YrFit\\Model\\MediaTraining.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Model\\MediaTraining.cs",
+              "RelativeToolTip": "YrFit\\Model\\MediaTraining.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:47:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PersonPage.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\PersonPage.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\PersonPage.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\PersonPage.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\PersonPage.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:15:07.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminMainPage.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\AdminMainPage.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\AdminMainPage.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\AdminMainPage.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\AdminMainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:08:39.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NavigationVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\NavigationVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\NavigationVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\NavigationVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\NavigationVM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:07:58.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "VisibilityConverter.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\VisibilityConverter.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\VisibilityConverter.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\VisibilityConverter.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\VisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:59:13.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NullToDefaultImageConverter.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\NullToDefaultImageConverter.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\NullToDefaultImageConverter.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\NullToDefaultImageConverter.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\NullToDefaultImageConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:21:16.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MediaContentConverter.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\MediaContentConverter.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\MediaContentConverter.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\MediaContentConverter.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\MediaContentConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:43:47.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CharacterCountToPercentageConverter.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\CharacterCountToPercentageConverter.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\CharacterCountToPercentageConverter.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\CharacterCountToPercentageConverter.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\CharacterCountToPercentageConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:07:14.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CalorieCalculator.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\CalorieCalculator.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\CalorieCalculator.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\CalorieCalculator.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\CalorieCalculator.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:26:42.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ByteArrayToStreamConverter.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Utilities\\ByteArrayToStreamConverter.cs",
+              "RelativeDocumentMoniker": "YrFit\\Utilities\\ByteArrayToStreamConverter.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Utilities\\ByteArrayToStreamConverter.cs",
+              "RelativeToolTip": "YrFit\\Utilities\\ByteArrayToStreamConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:17:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MainVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\MainVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\MainVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\MainVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\MainVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:48:24.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\App.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\App.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\App.xaml.cs",
+              "RelativeToolTip": "YrFit\\App.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwCIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T19:48:41.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ScrollViewer.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Styles\\ScrollViewer.xaml",
+              "RelativeDocumentMoniker": "YrFit\\Styles\\ScrollViewer.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Styles\\ScrollViewer.xaml",
+              "RelativeToolTip": "YrFit\\Styles\\ScrollViewer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T18:03:44.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20240512141458_newMigrationn.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Migrations\\20240512141458_newMigrationn.cs",
+              "RelativeDocumentMoniker": "YrFit\\Migrations\\20240512141458_newMigrationn.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Migrations\\20240512141458_newMigrationn.cs",
+              "RelativeToolTip": "YrFit\\Migrations\\20240512141458_newMigrationn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:14:58.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Action.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Model\\Action.cs",
+              "RelativeDocumentMoniker": "YrFit\\Model\\Action.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Model\\Action.cs",
+              "RelativeToolTip": "YrFit\\Model\\Action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:25:37.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "SingUpVM.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\SingUpVM.cs",
+              "RelativeDocumentMoniker": "YrFit\\ViewModel\\SingUpVM.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\ViewModel\\SingUpVM.cs",
+              "RelativeToolTip": "YrFit\\ViewModel\\SingUpVM.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAIIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:07:23.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240512135836_newMigration.cs",
+              "DocumentMoniker": "D:\\YrFitApp\\YrFit\\Migrations\\20240512135836_newMigration.cs",
+              "RelativeDocumentMoniker": "..\\YrFitApp\\YrFit\\Migrations\\20240512135836_newMigration.cs",
+              "ToolTip": "D:\\YrFitApp\\YrFit\\Migrations\\20240512135836_newMigration.cs",
+              "RelativeToolTip": "..\\YrFitApp\\YrFit\\Migrations\\20240512135836_newMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:58:36.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EntryAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\EntryAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\EntryAdmin.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\EntryAdmin.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\EntryAdmin.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:40:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Comment.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\Comment.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\Comment.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\Comment.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\Comment.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:05:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20240512135945_newMigration.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Migrations\\20240512135945_newMigration.cs",
+              "RelativeDocumentMoniker": "YrFit\\Migrations\\20240512135945_newMigration.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Migrations\\20240512135945_newMigration.cs",
+              "RelativeToolTip": "YrFit\\Migrations\\20240512135945_newMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:59:45.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "YrFit\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "YrFit\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:55:56.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Model\\Comment.cs",
+              "RelativeDocumentMoniker": "YrFit\\Model\\Comment.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Model\\Comment.cs",
+              "RelativeToolTip": "YrFit\\Model\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:49:18.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ActionAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\ActionAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\ActionAdmin.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\ActionAdmin.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\ActionAdmin.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:21:36.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CommentAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\CommentAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\CommentAdmin.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\CommentAdmin.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\CommentAdmin.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:59:04.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ScheduleAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\ScheduleAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\ViewAdmin\\ScheduleAdmin.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\ViewAdmin\\ScheduleAdmin.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\ViewAdmin\\ScheduleAdmin.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:39:19.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Styles\\Button.xaml",
+              "RelativeDocumentMoniker": "YrFit\\Styles\\Button.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Styles\\Button.xaml",
+              "RelativeToolTip": "YrFit\\Styles\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T19:14:07.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "UserMainPage.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\UserMainPage.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\UserMainPage.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\UserMainPage.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\UserMainPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:22:57.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\07562dd9ba86a0a5fead5117dd68e3c724f52eea01f79d4441c442c042cad972\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAHgBAAAAAAAAAADwv34BAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T20:05:18.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AppLogo.png",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Img\\AppLogo.png",
+              "RelativeDocumentMoniker": "YrFit\\Img\\AppLogo.png",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Img\\AppLogo.png",
+              "RelativeToolTip": "YrFit\\Img\\AppLogo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-07T22:43:35.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Text.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Styles\\Text.xaml",
+              "RelativeDocumentMoniker": "YrFit\\Styles\\Text.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Styles\\Text.xaml",
+              "RelativeToolTip": "YrFit\\Styles\\Text.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T20:51:33.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "SingUpPage.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\SingUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\SingUpPage.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\SingUpPage.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\SingUpPage.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:00:47.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\755b203da153c1147be7834a6e00b7c2948c66d9e563d069c387935ad0a5839e\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\755b203da153c1147be7834a6e00b7c2948c66d9e563d069c387935ad0a5839e\\NavigationService.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAPkDAAAAAAAAAAASwAoEAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:07:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20240504220019_ndfdfd.cs",
+              "DocumentMoniker": "D:\\YrFit\\YrFit\\Migrations\\20240504220019_ndfdfd.cs",
+              "RelativeDocumentMoniker": "..\\YrFit\\YrFit\\Migrations\\20240504220019_ndfdfd.cs",
+              "ToolTip": "D:\\YrFit\\YrFit\\Migrations\\20240504220019_ndfdfd.cs",
+              "RelativeToolTip": "..\\YrFit\\YrFit\\Migrations\\20240504220019_ndfdfd.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:00:19.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Page.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Styles\\Page.xaml",
+              "RelativeDocumentMoniker": "YrFit\\Styles\\Page.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Styles\\Page.xaml",
+              "RelativeToolTip": "YrFit\\Styles\\Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T19:14:40.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Actions.xaml.cs",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\View\\Actions.xaml.cs",
+              "RelativeDocumentMoniker": "YrFit\\View\\Actions.xaml.cs",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\View\\Actions.xaml.cs",
+              "RelativeToolTip": "YrFit\\View\\Actions.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:44:42.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AQIAAKYCAAAAAAAAAAAYwMECAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-03T12:35:41.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Image.xaml",
+              "DocumentMoniker": "D:\\YrFitAppFinall\\YrFit\\Styles\\Image.xaml",
+              "RelativeDocumentMoniker": "YrFit\\Styles\\Image.xaml",
+              "ToolTip": "D:\\YrFitAppFinall\\YrFit\\Styles\\Image.xaml",
+              "RelativeToolTip": "YrFit\\Styles\\Image.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T20:44:00.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20240425225225_newMigration.cs",
+              "DocumentMoniker": "D:\\YrFit\\YrFit\\Migrations\\20240425225225_newMigration.cs",
+              "RelativeDocumentMoniker": "..\\YrFit\\YrFit\\Migrations\\20240425225225_newMigration.cs",
+              "ToolTip": "D:\\YrFit\\YrFit\\Migrations\\20240425225225_newMigration.cs",
+              "RelativeToolTip": "..\\YrFit\\YrFit\\Migrations\\20240425225225_newMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:52:25.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

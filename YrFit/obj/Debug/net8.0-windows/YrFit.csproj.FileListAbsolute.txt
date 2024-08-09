@@ -1,0 +1,688 @@
+D:\Course_Progect\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.exe
+D:\Course_Progect\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.deps.json
+D:\Course_Progect\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.runtimeconfig.json
+D:\Course_Progect\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.dll
+D:\Course_Progect\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.pdb
+D:\Course_Progect\YrFit\YrFit\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Course_Progect\YrFit\YrFit\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.AssemblyReference.cache
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\App.g.cs
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.cache
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.lref
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\App.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.g.resources
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfoInputs.cache
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfo.cs
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.CoreCompileInputs.cache
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.Up2Date
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.dll
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\refint\YrFit.dll
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.pdb
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.genruntimeconfig.cache
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\ref\YrFit.dll
+D:\Course_Progect\YrFit\YrFit\bin\Debug\net8.0-windows\FluentWPF.dll
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\Schedule.g.cs
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\Schedule.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\Button.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\Page.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\Utilities\DataTemplate.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\View\Actions.g.cs
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\View\Home.g.cs
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\View\Schedule.g.cs
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\View\Actions.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\View\Home.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\View\Schedule.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\Image.baml
+D:\Course_Progect\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\Text.baml
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.exe
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.deps.json
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.runtimeconfig.json
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\YrFit.pdb
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\FluentWPF.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.AssemblyReference.cache
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\Button.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\Image.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\Page.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\Text.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\Actions.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\Home.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\Schedule.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\App.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.cache
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.lref
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\App.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\Utilities\DataTemplate.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\Actions.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\Home.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\Schedule.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.g.resources
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.GeneratedMSBuildEditorConfig.editorconfig
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfoInputs.cache
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfo.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.CoreCompileInputs.cache
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.Up2Date
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.dll
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\refint\YrFit.dll
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.pdb
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\YrFit.genruntimeconfig.cache
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\ref\YrFit.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Humanizer.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\SingInPage.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\SingInPage.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\SingUpPage.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\SingUpPage.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\UserMainPage.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\UserMainPage.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\AdminMainPage.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\AdminMainPage.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\PersonPage.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\PersonPage.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\Comment.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\Comment.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\Styles\ScrollViewer.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\MediaPage.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\MediaPage.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\UserAdmin.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\UserAdmin.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\CommentAdmin.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\CommentAdmin.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ActionAdmin.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ActionAdmin.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ScheduleAdmin.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ScheduleAdmin.baml
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\YrFit\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\EntryAdmin.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\EntryAdmin.baml
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\MediaAdmin.g.cs
+D:\YrFit\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\MediaAdmin.baml
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\YrFit.exe
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\YrFit.deps.json
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\YrFit.runtimeconfig.json
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\YrFit.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\YrFit.pdb
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\FluentWPF.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Humanizer.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitApp\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.AssemblyReference.cache
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\Styles\Button.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\Styles\Image.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\Styles\Page.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\Styles\ScrollViewer.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\Styles\Text.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\Actions.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\AdminMainPage.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\Comment.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\Home.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\MediaPage.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\PersonPage.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\Schedule.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\SingInPage.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\SingUpPage.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\UserMainPage.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ActionAdmin.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\CommentAdmin.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\EntryAdmin.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\MediaAdmin.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ScheduleAdmin.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\UserAdmin.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\App.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.cache
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.lref
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\App.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\Utilities\DataTemplate.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\Actions.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\AdminMainPage.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\Comment.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\Home.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\MediaPage.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\PersonPage.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\Schedule.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\SingInPage.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\SingUpPage.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\UserMainPage.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ActionAdmin.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\CommentAdmin.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\EntryAdmin.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\MediaAdmin.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ScheduleAdmin.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\UserAdmin.baml
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.g.resources
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.GeneratedMSBuildEditorConfig.editorconfig
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfoInputs.cache
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfo.cs
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.CoreCompileInputs.cache
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.Up2Date
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.dll
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\refint\YrFit.dll
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.pdb
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\YrFit.genruntimeconfig.cache
+D:\YrFitApp\YrFit\obj\Debug\net8.0-windows\ref\YrFit.dll
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.AssemblyReference.cache
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\Styles\Button.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\Styles\Image.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\Styles\Page.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\Styles\ScrollViewer.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\Styles\Text.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\Actions.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\AdminMainPage.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\Comment.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\Home.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\PersonPage.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\Schedule.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\SingInPage.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\SingUpPage.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\UserMainPage.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ActionAdmin.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\CommentAdmin.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\EntryAdmin.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\MediaAdmin.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ScheduleAdmin.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\UserAdmin.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\App.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit_Content.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.cache
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.lref
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.dll
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\refint\YrFit.dll
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.pdb
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\MediaPage.g.cs
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\YrFit.exe
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\YrFit.deps.json
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\YrFit.runtimeconfig.json
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\YrFit.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\YrFit.pdb
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\FluentWPF.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Google.Apis.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Google.Apis.YouTube.v3.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Humanizer.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\System.Management.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\YrFitApp — копия\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\App.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\Utilities\DataTemplate.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\Actions.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\AdminMainPage.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\Comment.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\Home.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\MediaPage.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\PersonPage.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\Schedule.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\SingInPage.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\SingUpPage.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\UserMainPage.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ActionAdmin.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\CommentAdmin.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\EntryAdmin.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\MediaAdmin.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ScheduleAdmin.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\UserAdmin.baml
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.g.resources
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.GeneratedMSBuildEditorConfig.editorconfig
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfoInputs.cache
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfo.cs
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.CoreCompileInputs.cache
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.Up2Date
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\YrFit.genruntimeconfig.cache
+D:\YrFitApp — копия\YrFit\obj\Debug\net8.0-windows\ref\YrFit.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\YrFit.exe
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\YrFit.deps.json
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\YrFit.runtimeconfig.json
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\YrFit.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\YrFit.pdb
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\FluentWPF.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Google.Apis.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Google.Apis.YouTube.v3.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Humanizer.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\System.Management.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\YrFitAppFinall\YrFit\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.AssemblyReference.cache
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\Styles\Button.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\Styles\Image.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\Styles\Page.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\Styles\ScrollViewer.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\Styles\Text.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\Actions.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\AdminMainPage.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\Comment.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\Home.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\MediaPage.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\PersonPage.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\Schedule.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\SingInPage.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\SingUpPage.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\UserMainPage.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ActionAdmin.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\CommentAdmin.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\EntryAdmin.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\MediaAdmin.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ScheduleAdmin.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\UserAdmin.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\App.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit_Content.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.cache
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit_MarkupCompile.lref
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\App.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\MainWindow.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\Utilities\DataTemplate.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\Actions.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\AdminMainPage.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\Comment.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\Home.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\MediaPage.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\PersonPage.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\Schedule.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\SingInPage.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\SingUpPage.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\UserMainPage.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ActionAdmin.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\CommentAdmin.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\EntryAdmin.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\MediaAdmin.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\ScheduleAdmin.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\View\ViewAdmin\UserAdmin.baml
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.g.resources
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.GeneratedMSBuildEditorConfig.editorconfig
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfoInputs.cache
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.AssemblyInfo.cs
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.CoreCompileInputs.cache
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.csproj.Up2Date
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.dll
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\refint\YrFit.dll
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.pdb
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.genruntimeconfig.cache
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\ref\YrFit.dll

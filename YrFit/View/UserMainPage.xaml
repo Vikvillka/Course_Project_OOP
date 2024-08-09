@@ -1,0 +1,105 @@
+﻿<Page x:Class="YrFit.View.UserMainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:YrFit.View"
+      mc:Ignorable="d" 
+      xmlns:Menu="clr-namespace:YrFit.Utilities"
+      xmlns:vm="clr-namespace:YrFit.ViewModel"
+       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      d:DesignHeight="600" d:DesignWidth="1000"
+      Title="UserMainPage">
+
+    <Page.DataContext>
+        <vm:NavigationVM />
+    </Page.DataContext>
+    <Grid Background="Transparent">
+     <Grid.ColumnDefinitions>
+         <ColumnDefinition Width="240"/>
+         <ColumnDefinition Width="2*"/>
+     </Grid.ColumnDefinitions>
+
+
+        <Grid HorizontalAlignment="Left"  Background="#af161616"
+        Width="238">
+      <StackPanel>
+          <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10">
+              <Image Source="..\img\logo.png" Width="100" HorizontalAlignment="Center"></Image>
+          </StackPanel>
+        
+          <StackPanel Margin="0 60 0 0">
+
+                    <Menu:Btn Style="{StaticResource BtnStyle}"
+                            Command="{Binding PersonCommand}"
+                            IsChecked="False">
+                        <Grid>
+                            <Image Source="..\img\userIcon.png"
+                                    Style="{StaticResource Image_Style}" />
+                            <TextBlock  Text="Личный кабинет"
+                                    Style="{StaticResource Text_Style}"/>
+                        </Grid>
+                    </Menu:Btn>
+                    <StackPanel Height="1" Background="DarkGray" Opacity="0.6" Margin="0 10"></StackPanel>
+                    <Menu:Btn Style="{StaticResource BtnStyle}"
+                    Command="{Binding HomeCommand}"
+                    IsChecked="True">
+                  <Grid>
+                      <Image Source="..\img\HomeIcon.png"
+                          Style="{StaticResource Image_Style}" />
+                      <TextBlock  Text="Главная"
+                               Style="{StaticResource Text_Style}"/>
+                  </Grid>
+              </Menu:Btn>
+              <Menu:Btn Style="{StaticResource BtnStyle}"
+                      Command="{Binding ScheduleCommand}"
+                      IsChecked="False">
+                  <Grid>
+                      <Image Source="..\img\timeIcon.png"
+                          Style="{StaticResource Image_Style}" />
+                      <TextBlock  Text="Расписание"
+                          Style="{StaticResource Text_Style}"/>
+                  </Grid>
+              </Menu:Btn>
+                    <Menu:Btn Style="{StaticResource BtnStyle}"
+                            Command="{Binding MediaCommand}"
+                            IsChecked="False">
+                        <Grid>
+                            <Image Source="..\img\WorkoutIcon.png"
+                                Style="{StaticResource Image_Style}" />
+                            <TextBlock  Text="Онлайн тренировка"
+                                Style="{StaticResource Text_Style}"/>
+                        </Grid>
+                    </Menu:Btn>
+                    <Menu:Btn Style="{StaticResource BtnStyle}"
+                          Command="{Binding ActionsCommand}"
+                          IsChecked="False">
+                  <Grid>
+                            <Image Source="..\img\ActionIcon.png"
+                              Style="{StaticResource Image_Style}" />
+                      <TextBlock  Text="Акции"
+                                  Style="{StaticResource Text_Style}"/>
+                  </Grid>
+              </Menu:Btn>
+                    <Menu:Btn Style="{StaticResource BtnStyle}"
+                            Command="{Binding CommentCommand}"
+                            IsChecked="False">
+                        <Grid>
+                            <Image Source="..\img\commentIcon.png"
+                Style="{StaticResource Image_Style}" />
+                            <TextBlock  Text="Комментарии"
+                    Style="{StaticResource Text_Style}"/>
+                        </Grid>
+                    </Menu:Btn>
+                </StackPanel>
+      </StackPanel>
+  </Grid>
+
+        <Grid Grid.Column="1" Background="Transparent">
+
+      <ContentControl x:Name="Pages"
+                      Content="{Binding CurrentView}" />
+  </Grid>
+       
+ </Grid>
+</Page>
