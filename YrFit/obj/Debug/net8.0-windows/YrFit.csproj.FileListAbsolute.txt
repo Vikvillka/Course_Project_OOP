@@ -686,3 +686,4 @@ D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\refint\YrFit.dll
 D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.pdb
 D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.genruntimeconfig.cache
 D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\ref\YrFit.dll
+D:\YrFitAppFinall\YrFit\obj\Debug\net8.0-windows\YrFit.sourcelink.json

@@ -121,7 +121,7 @@ namespace YrFit.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/YrFit;component/view/personpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/YrFit;V1.0.0.0;component/view/personpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\PersonPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

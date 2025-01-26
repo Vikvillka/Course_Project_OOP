@@ -75,7 +75,7 @@ namespace YrFit.View.ViewAdmin {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/YrFit;component/view/viewadmin/scheduleadmin.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/YrFit;V1.0.0.0;component/view/viewadmin/scheduleadmin.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\View\ViewAdmin\ScheduleAdmin.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
